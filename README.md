@@ -53,7 +53,7 @@
   <li>🔥<a href="https://weatherproject.deta.dev/"><b>WeatherProject</b></a><br/><i>Getting the weather through an external api.</i></li>
   <li>🔥<a href="https://wikiapi.fly.dev/"><b>WikiApi</b></a><br/><i>CRUD example of a RestFul API.</i></li>
   <li>🔥<a href="https://secretsbasic.cyclic.app/"><b>SecretsBasic</b></a><br/><i>An anonymous confession platform.</i></li>
-  <li>🔥<a href="https://keeperapp-josew383.vercel.app/"><b>KeerApp</b></a><br/><i>Notes app based on google keep.</i></li>
+  <li>🔥<a href="https://keeperapp-josew383.vercel.app/"><b>KeeperApp</b></a><br/><i>Notes app based on google keep.</i></li>
   <li>🔥<a href="https://tic-tac-toe-josew383.vercel.app/"><b>Tic-Tac-Toe</b></a><br/><i>Game based on Tic tac toe.</i></li>
   <li>🔥<a href="https://random-cats-josew383.vercel.app/"><b>Random Cats</b></a><br/><i>App that displays cat curiosities.</i></li>
 <ul>
