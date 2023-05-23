@@ -44,18 +44,18 @@
 
 <h2> 🌍 Latest websites developed (for hobby) </h2>
 <ul>
-  <li>🔥<a href="https://josew383.github.io/Tindog/#"><b>Tindog</b></a><br/><i>Boostrap front of a dating app for dogs.</i></li>
-  <li>🔥<a href="https://josew383.github.io/Tindog/#"><b>DiceeGame</b></a><br/><i>A dice game..</i></li>
-  <li>🔥<a href="https://josew383.github.io/DrumKit/"><b>DrumKit</b></a><br/><i>A drum set.</i></li>
-  <li>🔥<a href="https://josew383.github.io/SimonGame/"><b>SimonGame</b></a><br/><i>A music memory game.</i></li>
-  <li>🔥<a href="https://dailyjournal-lea9.onrender.com/"><b>DailyJournal</b></a><br/><i>An online journal.</i></li>
-  <li>🔥<a href="https://todolist-oa4b.onrender.com/"><b>TodoList</b></a><br/><i>A task list app.</i></li>
-  <li>🔥<a href="https://weatherproject.deta.dev/"><b>WeatherProject</b></a><br/><i>Getting the weather through an external api.</i></li>
-  <li>🔥<a href="https://wikiapi.fly.dev/"><b>WikiApi</b></a><br/><i>CRUD example of a RestFul API.</i></li>
-  <li>🔥<a href="https://secretsbasic.cyclic.app/"><b>SecretsBasic</b></a><br/><i>An anonymous confession platform.</i></li>
-  <li>🔥<a href="https://keeperapp-josew383.vercel.app/"><b>KeeperApp</b></a><br/><i>Notes app based on google keep.</i></li>
-  <li>🔥<a href="https://tic-tac-toe-josew383.vercel.app/"><b>Tic-Tac-Toe</b></a><br/><i>Game based on Tic tac toe.</i></li>
-  <li>🔥<a href="https://random-cats-josew383.vercel.app/"><b>Random Cats</b></a><br/><i>App that displays cat curiosities.</i></li>
+  <li>🔥<a href="https://josew383.github.io/Tindog/#"><b>Tindog</b></a> <a href="https://github.com/JOSEW383/Tindog" style="color:LightBlue">[src]<br/></a><i>Boostrap front of a dating app for dogs.</i></li>
+  <li>🔥<a href="https://josew383.github.io/Tindog/#"><b>DiceeGame</b></a> <a href="https://github.com/JOSEW383/DiceeGame" style="color:LightBlue">[src]<br/></a><i>A dice game..</i></li>
+  <li>🔥<a href="https://josew383.github.io/DrumKit/"><b>DrumKit</b></a> <a href="https://github.com/JOSEW383/DrumKit" style="color:LightBlue">[src]<br/></a><i>A drum set.</i></li>
+  <li>🔥<a href="https://josew383.github.io/SimonGame/"><b>SimonGame</b></a> <a href="https://github.com/JOSEW383/SimonGame" style="color:LightBlue">[src]<br/></a><i>A music memory game.</i></li>
+  <li>🔥<a href="https://dailyjournal-lea9.onrender.com/"><b>DailyJournal</b></a> <a href="https://github.com/JOSEW383/DailyJournal" style="color:LightBlue">[src]<br/></a><i>An online journal.</i></li>
+  <li>🔥<a href="https://todolist-oa4b.onrender.com/"><b>TodoList</b></a> <a href="https://github.com/JOSEW383/TodoList" style="color:LightBlue">[src]<br/></a><i>A task list app.</i></li>
+  <li>🔥<a href="https://weatherproject.deta.dev/"><b>WeatherProject</b></a> <a href="https://github.com/JOSEW383/WeatherProject" style="color:LightBlue">[src]<br/></a><i>Getting the weather through an external api.</i></li>
+  <li>🔥<a href="https://wikiapi.fly.dev/"><b>WikiApi</b></a> <a href="https://github.com/JOSEW383/Wiki-API" style="color:LightBlue">[src]<br/></a><i>CRUD example of a RestFul API.</i></li>
+  <li>🔥<a href="https://secretsbasic.cyclic.app/"><b>SecretsBasic</b></a> <a href="https://github.com/JOSEW383/SecretsBasic" style="color:LightBlue">[src]<br/></a><i>An anonymous confession platform.</i></li>
+  <li>🔥<a href="https://keeperapp-josew383.vercel.app/"><b>KeeperApp</b></a> <a href="https://github.com/JOSEW383/keeperapp" style="color:LightBlue">[src]<br/></a><i>Notes app based on google keep.</i></li>
+  <li>🔥<a href="https://tic-tac-toe-josew383.vercel.app/"><b>Tic-Tac-Toe</b></a> <a href="https://github.com/JOSEW383/tic-tac-toe" style="color:LightBlue">[src]<br/></a><i>Game based on Tic tac toe.</i></li>
+  <li>🔥<a href="https://random-cats-josew383.vercel.app/"><b>Random Cats</b></a> <a href="https://github.com/JOSEW383/RandomCats" style="color:LightBlue">[src]<br/></a><i>App that displays cat curiosities.</i></li>
 <ul>
   
 <br>
