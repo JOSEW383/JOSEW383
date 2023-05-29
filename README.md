@@ -55,7 +55,7 @@
   <li>🔥<a href="https://secretsbasic.cyclic.app/"><b>SecretsBasic</b></a> <a href="https://github.com/JOSEW383/SecretsBasic" style="color:LightBlue">[src]<br/></a><i>An anonymous confession platform.</i></li>
   <li>🔥<a href="https://keeperapp-josew383.vercel.app/"><b>KeeperApp</b></a> <a href="https://github.com/JOSEW383/keeperapp" style="color:LightBlue">[src]<br/></a><i>Notes app based on google keep.</i></li>
   <li>🔥<a href="https://tic-tac-toe-josew383.vercel.app/"><b>Tic-Tac-Toe</b></a> <a href="https://github.com/JOSEW383/tic-tac-toe" style="color:LightBlue">[src]<br/></a><i>Game based on Tic tac toe.</i></li>
-  <li>🔥<a href="https://random-cats-josew383.vercel.app/"><b>Random Cats</b></a> <a href="https://github.com/JOSEW383/RandomCats" style="color:LightBlue">[src]<br/></a><i>App that displays cat curiosities.</i></li>
+  <li>🔥<a href="https://random-cats-josew383.vercel.app/"><b>Random Cats</b></a> <a href="https://github.com/JOSEW383/random-cats" style="color:LightBlue">[src]<br/></a><i>App that displays cat curiosities.</i></li>
   <li>🔥<a href="https://moviefinder-josew383.vercel.app/"><b>Movie Finder</b></a> <a href="https://github.com/JOSEW383/movie-finder" style="color:LightBlue">[src]<br/></a><i>Movie search engine.</i></li>
 <ul>
   
