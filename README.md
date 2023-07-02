@@ -40,6 +40,7 @@
     <a href="https://www.selenium.dev" target="_blank"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40" /> </a> 
     <a href="https://www.sqlite.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg"alt="sqlite" width="40" height="40" /> </a>
     <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" /> </a>
+    <a href="https://github.com/features/actions" target="_blank"> <img src="https://avatars.githubusercontent.com/u/44036562?s=280&v=4" alt="typescript" width="40" height="40" /> </a>
 </p>
 
 <h2> 🌍 Latest websites developed (for hobby) </h2>
@@ -57,6 +58,7 @@
   <li>🔥<a href="https://tic-tac-toe-josew383.vercel.app/"><b>Tic-Tac-Toe</b></a> <a href="https://github.com/JOSEW383/tic-tac-toe" style="color:LightBlue">[src]<br/></a><i>Game based on Tic tac toe.</i></li>
   <li>🔥<a href="https://random-cats-josew383.vercel.app/"><b>Random Cats</b></a> <a href="https://github.com/JOSEW383/random-cats" style="color:LightBlue">[src]<br/></a><i>App that displays cat curiosities.</i></li>
   <li>🔥<a href="https://moviefinder-josew383.vercel.app/"><b>Movie Finder</b></a> <a href="https://github.com/JOSEW383/movie-finder" style="color:LightBlue">[src]<br/></a><i>Movie search engine.</i></li>
+  <li>🔥<a href="https://reactcomerce-josew383.vercel.app/"><b>React comerce</b></a> <a href="https://github.com/JOSEW383/react-comerce" style="color:LightBlue">[src]<br/></a><i>Ecomerce based on react.</i></li>
 <ul>
   
 <br>
