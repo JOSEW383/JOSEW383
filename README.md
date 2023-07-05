@@ -51,7 +51,7 @@
   <li>🔥<a href="https://josew383.github.io/SimonGame/"><b>SimonGame</b></a> <a href="https://github.com/JOSEW383/SimonGame" style="color:LightBlue">[src]<br/></a><i>A music memory game.</i></li>
   <li>🔥<a href="https://dailyjournal-lea9.onrender.com/"><b>DailyJournal</b></a> <a href="https://github.com/JOSEW383/DailyJournal" style="color:LightBlue">[src]<br/></a><i>An online journal.</i></li>
   <li>🔥<a href="https://todolist-oa4b.onrender.com/"><b>TodoList</b></a> <a href="https://github.com/JOSEW383/TodoList" style="color:LightBlue">[src]<br/></a><i>A task list app.</i></li>
-  <li>🔥<a href="https://weatherproject.deta.dev/"><b>WeatherProject</b></a> <a href="https://github.com/JOSEW383/WeatherProject" style="color:LightBlue">[src]<br/></a><i>Getting the weather through an external api.</i></li>
+  <li>🔥<a href="https://weatherproject-1-n5481012.deta.app/"><b>WeatherProject</b></a> <a href="https://github.com/JOSEW383/WeatherProject" style="color:LightBlue">[src]<br/></a><i>Getting the weather through an external api.</i></li>
   <li>🔥<a href="https://wikiapi.fly.dev/"><b>WikiApi</b></a> <a href="https://github.com/JOSEW383/Wiki-API" style="color:LightBlue">[src]<br/></a><i>CRUD example of a RestFul API.</i></li>
   <li>🔥<a href="https://secretsbasic.cyclic.app/"><b>SecretsBasic</b></a> <a href="https://github.com/JOSEW383/SecretsBasic" style="color:LightBlue">[src]<br/></a><i>An anonymous confession platform.</i></li>
   <li>🔥<a href="https://keeperapp-josew383.vercel.app/"><b>KeeperApp</b></a> <a href="https://github.com/JOSEW383/keeperapp" style="color:LightBlue">[src]<br/></a><i>Notes app based on google keep.</i></li>
