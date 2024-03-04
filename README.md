@@ -46,7 +46,7 @@
 <h2> 🌍 Latest websites developed (for hobby) </h2>
 <ul>
   <li>🔥<a href="https://josew383.github.io/Tindog/#"><b>Tindog</b></a> <a href="https://github.com/JOSEW383/Tindog" style="color:LightBlue">[src]<br/></a><i>Boostrap front of a dating app for dogs.</i></li>
-  <li>🔥<a href="https://josew383.github.io/Tindog/#"><b>DiceeGame</b></a> <a href="https://github.com/JOSEW383/DiceeGame" style="color:LightBlue">[src]<br/></a><i>A dice game..</i></li>
+  <li>🔥<a href="https://josew383.github.io/DiceeGame/"><b>DiceeGame</b></a> <a href="https://github.com/JOSEW383/DiceeGame" style="color:LightBlue">[src]<br/></a><i>A dice game..</i></li>
   <li>🔥<a href="https://josew383.github.io/DrumKit/"><b>DrumKit</b></a> <a href="https://github.com/JOSEW383/DrumKit" style="color:LightBlue">[src]<br/></a><i>A drum set.</i></li>
   <li>🔥<a href="https://josew383.github.io/SimonGame/"><b>SimonGame</b></a> <a href="https://github.com/JOSEW383/SimonGame" style="color:LightBlue">[src]<br/></a><i>A music memory game.</i></li>
   <li>🔥<a href="https://dailyjournal-lea9.onrender.com/"><b>DailyJournal</b></a> <a href="https://github.com/JOSEW383/DailyJournal" style="color:LightBlue">[src]<br/></a><i>An online journal.</i></li>
