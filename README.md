@@ -60,7 +60,10 @@
   <li>🔥<a href="https://moviefinder-josew383.vercel.app/"><b>Movie Finder</b></a> <a href="https://github.com/JOSEW383/movie-finder" style="color:LightBlue">[src]<br/></a><i>Movie search engine.</i></li>
   <li>🔥<a href="https://reactcomerce-josew383.vercel.app/"><b>React comerce</b></a> <a href="https://github.com/JOSEW383/react-comerce" style="color:LightBlue">[src]<br/></a><i>Ecomerce based on react.</i></li>
   <li>🔥<a href="https://mycontador.vercel.app/"><b>MyContador</b></a> <a href="https://github.com/JOSEW383/mycontador-app-public" style="color:LightBlue">[src]<br/></a><i>Web app to manage water counters.</i></li>
-    <li>🔥<a href="https://github.com/JOSEW383/jsonfolio/tree/main"><b>JsonFolio</b></br></a><i>Web portfolio based on a json.</i></li>
+  <li>🔥<a href="https://github.com/JOSEW383/jsonfolio/tree/main"><b>JsonFolio</b></br></a><i>Web portfolio based on a json.</i></li>
+  <li>🔥<a href="https://airealestate.duckdns.org/"><b>AI Real Estate</b></a> <a href="https://github.com/JOSEW383/ai-real-state" style="color:LightBlue">[src]<br/></a><i>Modern real estate platform to help find property.
+
+</i></li>
   <ul>
   
 <br>
